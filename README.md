@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# cat_app_nextjs
+next.jsの入門として、APIの返却値にある画像を表示する
+簡単なアプリを作成。
+
+## 参考文献
+TypescriptとNext.jsをアプリ開発しながら学んでみよう【Typescript入門】
+
+https://www.youtube.com/watch?v=MZclBqhCB6A&t=1648s
+
+## 使用API、ライブラリ
+・The Cat API
+https://thecatapi.com/
+
+・SemanticUI React
+https://react.semantic-ui.com/elements/loader/
+
 
 ## Getting Started
 
